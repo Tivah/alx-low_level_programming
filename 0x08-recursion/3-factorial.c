@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * fctorial - factorial of int
+ * factorial - factorial of int
  * @n:int
  * Return:int
  */
